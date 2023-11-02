@@ -3,7 +3,7 @@
     <img src="https://github.com/HexCrypter/HexCrypter/assets/149661104/f44302ec-40fd-4c1c-8547-92e219ec5cda" alt="HexCrypter" width="150px">
   </a><br>
   <h1>
-    <b>HexCrypter</b>
+    <b color="#fff">HexCrypter</b>
   </h1>
   <div id="item">
     <a href="https://">
