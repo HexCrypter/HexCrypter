@@ -22,7 +22,7 @@
   <div id="item-github">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HexCrypter&text_color=ffffff&icon_color=ffffff&theme=radical&hide_progress=true" alt="">
   </div><hr>
-    <a href="https://github.com/HexCrypter/Web-Proxy">
-      <img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=HexCrypter&repo=Web-Proxy&text_color=ffffff&icon_color=ffffff&theme=radical&hide_progress=true"">
+    <a href="https://github.com/HexCrypter/WP-searcher">
+      <img title="mrphish" src="https://github-readme-stats.vercel.app/api/pin/?username=HexCrypter&repo=WP-searcher&text_color=ffffff&icon_color=ffffff&theme=radical&hide_progress=true"">
     </a>
 </div>
